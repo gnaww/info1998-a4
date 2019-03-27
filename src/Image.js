@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import pic from './pic.jpg';
 
-const Image = prop => {
+const Image = props => {
     return (
         <div>
             <h1>I LOVE CATS</h1>
